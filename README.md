@@ -2,24 +2,20 @@
 
 
   <!-- Hi there! Feel free to make this your own but don't use my data -->
-  
-<div align="center">
-  <a href="https://github.com/metaces"><img src="https://github.com/metaces/metaces/blob/main/1517780780128.jpg" alt="metaces's Header"></a>
-
-<br>
-  
-<h3>Hi there! 👋🤓<br>I'm Cesar Felipe<br>an I.T Consultant, Web/Mobile Developer, <br>Entrepreneur</h3>
-
-<hr width="50%" style="height:5px;">
-
-
-## Development with
 
 <div align="center">
 	<img src="https://github.com/metaces/metaces/blob/main/icons8-angularjs-50.png" alt="metaces's angularjs">
 	<img src="https://github.com/metaces/metaces/blob/main/icons8-react-native-50.png" alt="metaces's reactjs">
 	<img src="https://github.com/metaces/metaces/blob/main/icons8-flutter-50.png" alt="metaces's flutter">
 </div>
+
+<div align="center">
+  
+<br>
+  
+<h3>Hi there! 👋🤓<br>I'm Cesar Felipe<br>an I.T Consultant, Web/Mobile Developer, <br>Entrepreneur</h3>
+
+<hr width="50%" style="height:5px;">
 
 </div>
 
