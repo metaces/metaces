@@ -16,9 +16,9 @@
 ## Development with
 
 <div align="center">
-	<img src="https://github.com/metaces/metaces/blob/main/angularjs-fill.png" alt="metaces's angularjs">
-	<img src="https://github.com/metaces/metaces/blob/main/reactjs-line.png" alt="metaces's reactjs">
-	<img src="https://github.com/metaces/metaces/blob/main/flutter-line.png" alt="metaces's flutter">
+	<img src="https://github.com/metaces/metaces/blob/main/icons8-angularjs-50.png" alt="metaces's angularjs">
+	<img src="https://github.com/metaces/metaces/blob/main/icons8-react-native-50.png" alt="metaces's reactjs">
+	<img src="https://github.com/metaces/metaces/blob/main/icons8-flutter-50.png" alt="metaces's flutter">
 </div>
 
 </div>
